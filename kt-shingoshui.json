@@ -1,6 +1,7 @@
 {
  "work": "新後拾遺和歌集",
  "work_id": "kt-shingoshui",
+ "repo": "kumoi-no-fumigura/shingoshui-wakashu",
  "yomi": "しんごしゅういわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -18669,6 +18670,5 @@
    "text": "君が代は契るも久し百とせを十かへりふべき千々の松原",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shingoshui-wakashu"
+ ]
 }
